@@ -1,4 +1,4 @@
-### 🤖 Hi! I am Tuan.
+### 🤖 Yo, I am Tuan,
 
 <!--
 **tuang3142/tuang3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
