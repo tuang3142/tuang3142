@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🚀   Ruby on Rals developer
 - 🦾   Vim enthusiast
-- 🍎   I enjoy click clacking and everything hjkl related!
+- 🍎   I enjoy [click clacking](https://tuanguyen.com/) and everything hjkl related!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuang3142&count_private=true&show_icons=true&theme=nord)
