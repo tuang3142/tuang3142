@@ -1,11 +1,11 @@
-### 🤖 Hello, I'm Tuan.
+### 🤖 Hey there, I'm Tuan.
 
 <!--
 **tuang3142/tuang3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🚀   Ruby on Rals developer
+- 🚀   Ruby on Rails developer
 - 🦾   Vim enthusiast
 - 🍎   I enjoy [click clacking](https://tuanguyen.com/) and everything hjkl related!
 
